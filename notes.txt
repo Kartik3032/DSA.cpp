@@ -1,0 +1,6 @@
+Today I started learning arrays.
+Next topics:
+- Input/Output
+- Sum of Array
+- Maximum Element
+- Minimum Element
