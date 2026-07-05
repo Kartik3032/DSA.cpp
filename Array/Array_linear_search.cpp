@@ -11,6 +11,7 @@ int main()
     cin >> target;
 
     int index = -1; // Initialize index to -1 (not found)
+
     for (int i = 0; i < size; i++)
     {
         if (arr[i] == target)
