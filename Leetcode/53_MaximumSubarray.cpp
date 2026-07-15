@@ -16,7 +16,6 @@ int maxSubArray(vector<int> &nums)
             currSum = 0;
         }
     }
+
     return maxSum;
 }
-}
-;
