@@ -10,4 +10,3 @@ void reverseString(vector<char> &s)
         swap(s[st++], s[end--]);
     }
 }
-}
